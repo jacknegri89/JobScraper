@@ -2,4 +2,4 @@
 # Dependabot proposes updates; the CI runs the whole test suite on each one.
 playwright==1.61.0
 playwright-stealth==2.0.3
-openai==3.46.0
+openai==3.49.0
